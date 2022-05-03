@@ -1,4 +1,4 @@
-# ECG-plotter-in-python
+# Live-ECG-plotter-in-python
 Plotting of live or prerecorded ECG data on canvas with python and Tkinter. 
 
 This came about as a side job on a biger project that required ECG ploting. 
